@@ -10,7 +10,7 @@
 - I am a spatial data scientist at [Faculty of Urban and Regional Development (HSE University, Moscow)](https://gorod.hse.ru/en/) 
 - I mostly work on analysing and understanding spatial urban data
 - I write [papers](https://www.hse.ru/en/staff/ekotov#sci)
-- I teach [data analysis in R and cumputational spatial morphology](https://www.hse.ru/en/staff/ekotov#teaching) to urban researchers and planners
+- I teach [data analysis in R and computational spatial morphology](https://www.hse.ru/en/staff/ekotov#teaching) to urban researchers and planners
 - I create and contribute to [R packages](https://github.com/e-kotov?tab=repositories&q=&type=&language=r&sort=)
 - I offer an [online-course in GIS using QGIS](https://www.hse.ru/edu/dpo/464952308) (currently only available in Russian)
 
