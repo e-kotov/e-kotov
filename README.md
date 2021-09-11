@@ -15,7 +15,5 @@
 - I offer an [online-course in GIS using QGIS](https://www.hse.ru/edu/dpo/464952308) (currently only available in Russian)
 
 
-<img src="https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJsRDJyWm9Idk1PYzlTeHU3dkdXaDlNRGJCQjdwNndxdiIsCiAgInVz
-ZXJJZCI6ICJnaGVrIiwKICAiZXZlbnQiOiAiR2l0SHViIiwKICAicHJvcGVydGllcyI6IHsKICAg
-ICJzdWJqZWN0IjogIkdpdEh1YiIsCiAgICAiZW1haWwiOiAiR2l0SHViIgogIH0KfQ==">
+<img src="https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJsRDJyWm9Idk1PYzlTeHU3dkdXaDlNRGJCQjdwNndxdiIsCiAgInVzZXJJZCI6ICJ1c2VyXzEyMyIsCiAgImV2ZW50IjogIkVtYWlsIE9wZW5lZCIsCiAgInByb3BlcnRpZXMiOiB7CiAgICAic3ViamVjdCI6ICJUaGUgRWxlY3RyaWMgRGFpbHkiLAogICAgImVtYWlsIjogImphbmUua2ltQGV4YW1wbGUuY29tIgogIH0KfQ==">
 
