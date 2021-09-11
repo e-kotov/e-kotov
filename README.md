@@ -16,5 +16,6 @@
 
 
 <img src="https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJsRDJyWm9Idk1PYzlTeHU3dkdXaDlNRGJCQjdwNndxdiIsCiAgInVz
-ZXJJZCI6ICJnaGVrIiwKICAiZXZlbnQiOiAiR2l0SHViIgp9">
+ZXJJZCI6ICJnaGVrIiwKICAiZXZlbnQiOiAiR2l0SHViIiwKICAicHJvcGVydGllcyI6IHsKICAg
+ICJzdWJqZWN0IjogIkdpdEh1YiIsCiAgICAiZW1haWwiOiAiR2l0SHViIgogIH0KfQ==">
 
