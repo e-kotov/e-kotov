@@ -12,7 +12,7 @@
 - I write [papers](https://www.hse.ru/en/staff/ekotov#sci)
 - I teach [data analysis in R and computational spatial morphology](https://www.hse.ru/en/staff/ekotov#teaching) to urban researchers and planners
 - I create and contribute to [R packages](https://github.com/e-kotov?tab=repositories&q=&type=&language=r&sort=)
-- I offer an [online-course in GIS using QGIS](https://www.hse.ru/edu/dpo/464952308) (currently only available in Russian)
+- I offer an [online-course in GIS using QGIS](https://www-hse-ru.translate.goog/edu/dpo/464952308?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) (currently only available in Russian)
 
 
 <img src="https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJsRDJyWm9Idk1PYzlTeHU3dkdXaDlNRGJCQjdwNndxdiIsCiAgInVzZXJJZCI6ICJ1c2VyXzEyMyIsCiAgImV2ZW50IjogIkVtYWlsIE9wZW5lZCIsCiAgInByb3BlcnRpZXMiOiB7CiAgICAic3ViamVjdCI6ICJUaGUgRWxlY3RyaWMgRGFpbHkiLAogICAgImVtYWlsIjogImphbmUua2ltQGV4YW1wbGUuY29tIgogIH0KfQ==">
