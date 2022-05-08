@@ -14,6 +14,14 @@
 - I create and contribute to [R packages](https://github.com/e-kotov?tab=repositories&q=&type=&language=r&sort=)
 - I offer an [online-course in GIS using QGIS](https://www-hse-ru.translate.goog/edu/dpo/464952308?_x_tr_sl=ru&_x_tr_tl=en&_x_tr_hl=en-US&_x_tr_pto=wapp) (currently only available in Russian)
 
+### Research interests
+
+- Intra-urban and inter-regional mobility, commuting and migration; determinants, external effects and spillover effects
+- Inequalities in accesibility of jobs and services
+- Spatial mismatches of housing and labour markets and assosiated labour market frictions
+- Sustainable transporation
+- Urban spatial structure and policentric development
+
 
 <img src="https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJsRDJyWm9Idk1PYzlTeHU3dkdXaDlNRGJCQjdwNndxdiIsCiAgInVzZXJJZCI6ICJ1c2VyXzEyMyIsCiAgImV2ZW50IjogIkVtYWlsIE9wZW5lZCIsCiAgInByb3BlcnRpZXMiOiB7CiAgICAic3ViamVjdCI6ICJUaGUgRWxlY3RyaWMgRGFpbHkiLAogICAgImVtYWlsIjogImphbmUua2ltQGV4YW1wbGUuY29tIgogIH0KfQ==">
 
