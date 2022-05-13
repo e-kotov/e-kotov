@@ -17,10 +17,10 @@
 ### Research interests
 
 - Intra-urban and inter-regional mobility, commuting and migration; determinants, external effects and spillover effects
-- Inequalities in accesibility of jobs and services
-- Spatial mismatches of housing and labour markets and assosiated labour market frictions
-- Sustainable transporation
-- Urban spatial structure and policentric development
+- Inequalities in accessibility of jobs and services
+- Spatial mismatches of housing and labour markets and assossiated labour market frictions
+- Sustainable transportation
+- Urban spatial structure and polycentric development
 
 
 <img src="https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJsRDJyWm9Idk1PYzlTeHU3dkdXaDlNRGJCQjdwNndxdiIsCiAgInVzZXJJZCI6ICJ1c2VyXzEyMyIsCiAgImV2ZW50IjogIkVtYWlsIE9wZW5lZCIsCiAgInByb3BlcnRpZXMiOiB7CiAgICAic3ViamVjdCI6ICJUaGUgRWxlY3RyaWMgRGFpbHkiLAogICAgImVtYWlsIjogImphbmUua2ltQGV4YW1wbGUuY29tIgogIH0KfQ==">
