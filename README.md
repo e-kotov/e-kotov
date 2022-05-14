@@ -18,7 +18,7 @@
 
 - Intra-urban and inter-regional mobility, commuting and migration; determinants, external effects and spillover effects
 - Inequalities in accessibility of jobs and services
-- Spatial mismatches of housing and labour markets and assossiated labour market frictions
+- Spatial mismatches of housing and labour markets and associated labour market frictions
 - Sustainable transportation
 - Urban spatial structure and polycentric development
 
