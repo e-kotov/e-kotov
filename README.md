@@ -1,11 +1,13 @@
 <p align="center">
 	<a href="https://github.com/e-kotov"><img src="https://img.shields.io/github/followers/e-kotov.svg?label=GitHub&style=for-the-badge&color=red" alt="GitHub"></a>
+	  <a href="https://fediscience.org/@EgorKotov"><img src="https://img.shields.io/badge/-Mastodon-555555?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" rel="me"></a>
   <a href="https://twitter.com/EgorKotov"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.researchgate.net/profile/Egor_Kotov"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
   <a href="https://scholar.google.ru/citations?user=lZ2AXMAAAAAJ&hl=en"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
     <a href="https://www.linkedin.com/in/egorkotov/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=grey" alt="LinkedIn"></a>
   <a href="http://youtube.com/c/EgorKotov"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>	
 </p>
+
 
 
 - I am currently a PhD Student at the [Laboratory of Digital and Computational Demography](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555/) at the [Max Planck Institute for Demographic Research (MPIDR)](https://www.demogr.mpg.de/en/) in Rostock.
