@@ -10,7 +10,7 @@
 
 
 
-- I am currently a PhD Student at the [Department of Digital and Computational Demography, Laboratory of Migration and Mobility]([https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_5555/](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/migration_and_mobility_11669/)) at the [Max Planck Institute for Demographic Research (MPIDR)](https://www.demogr.mpg.de/en/) in Rostock.
+- I am currently a PhD Student at the [Department of Digital and Computational Demography, Laboratory of Migration and Mobility](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/migration_and_mobility_11669/) at the [Max Planck Institute for Demographic Research (MPIDR)](https://www.demogr.mpg.de/en/) in Rostock.
 - I analyse spatial digital trace data to study migration, commuting patterns, and the implications for disease dynamics and inequality
 - I write [papers](https://www.ekotov.pro/research.html)
 - I create and contribute to [R packages](https://www.ekotov.pro/software.html)
