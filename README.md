@@ -23,7 +23,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=e-kotov&count_private=true&&show_icons=true&theme=swift" alt = "Egor's github stats">
 
-<i>Github stats by <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">https://github.com/anuraghazra/github-readme-stats</a></i>
+<i>GitHub stats by <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">https://github.com/anuraghazra/github-readme-stats</a></i>
 
 
 <img src="https://api.segment.io/v1/pixel/track?data=ewogICJ3cml0ZUtleSI6ICJsRDJyWm9Idk1PYzlTeHU3dkdXaDlNRGJCQjdwNndxdiIsCiAgInVzZXJJZCI6ICJ1c2VyXzEyMyIsCiAgImV2ZW50IjogIkVtYWlsIE9wZW5lZCIsCiAgInByb3BlcnRpZXMiOiB7CiAgICAic3ViamVjdCI6ICJUaGUgRWxlY3RyaWMgRGFpbHkiLAogICAgImVtYWlsIjogImphbmUua2ltQGV4YW1wbGUuY29tIgogIH0KfQ==">
