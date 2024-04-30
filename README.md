@@ -10,16 +10,21 @@
 
 
 
-- I am currently a PhD Student at the [Department of Digital and Computational Demography, Laboratory of Migration and Mobility](https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/migration_and_mobility_11669/) at the [Max Planck Institute for Demographic Research (MPIDR)](https://www.demogr.mpg.de/en/) in Rostock.
-- I analyse spatial digital trace data to study migration, commuting patterns, and the implications for disease dynamics and inequality
-- I write [papers](https://www.ekotov.pro/research.html)
-- I developed the <a href="http://www.ekotov.pro/wikimapR/" target="_blank">wikimapR</a> R package and I also contribute to many other <a href="https://www.ekotov.pro/software.html" target="_blank">R packages</a>
-- I used to teach [reproducible data analysis in R and computational spatial morphology](https://www.ekotov.pro/about.html#teaching) to urban researchers and planners
+- I am currently a <a href="https://www.demogr.mpg.de/en/about_us_6113/staff_directory_1899/egor_kotov_4279/" target="_blank">Doctoral Researcher</a> at the <a href="https://www.demogr.mpg.de/en/research_6120/digital_and_computational_demography_zagheni_11666/migration_and_mobility_11669/" target="_blank">Department of Digital and Computational Demography, Laboratory of Migration and Mobility</a> at the Max Planck Institute for Demographic Research (MPIDR) in Rostock and at <a href="https://www.upf.edu/web/demosoc" target="_blank">Sociodemography Research Group</a> at the Universitat Pompeu Fabra (UPF) in Barcelona.
 
-### Research interests
+- I analyse spatial digital trace data to study human mobility patterns and the implications for disease dynamics and inequalities.
+
+- I write <a href="https://www.ekotov.pro/research.html" target="_blank">papers</a>.
+
+- I worked on many R pacakges: I developed the <a href="http://www.ekotov.pro/wikimapR/" target="_blank">`wikimapR`</a> for getting data using Wikimapia API, enhanced <a href="https://github.com/chainsawriot/rang" target="_blank">`rang`</a> for reproducible research, and made contributions to `layer`, `OpenTripPlanner`, `geofacet`, `esri2sf` and <a href="https://www.ekotov.pro/software.html" target="_blank">more R packages</a>.
+
+- I used to teach <a ref="https://www.ekotov.pro/about.html#teaching" target="_blank">reproducible data analysis in R and computational spatial morphology</a> to urban researchers and planners.
+
+**Research interests**
 
 - Intra-urban and inter-regional mobility, commuting and migration; determinants, external effects and spillover effects
-- Implications of human mobility for disease dynamics and inequality
+
+- Implications of human mobility for disease dynamics and inequalities
 
 <img src="https://github-readme-stats.vercel.app/api?username=e-kotov&count_private=true&&show_icons=true&theme=swift" alt = "Egor's github stats">
 
