@@ -14,7 +14,11 @@
 
 - I analyse spatial digital trace data to study human mobility patterns and the implications for disease dynamics and inequalities.
 
-- I write <a href="https://www.ekotov.pro/research.html" target="_blank">papers</a>.
+- My latest paper is:
+
+  - **Kotov, E.**, & Deneke, E. (2024). Expanding the Lifespan of Software for Demographic Analysis with Containers: An Application of Spatial Sampling. The Denominator. Population Dynamics Lab. <a href='https://dx.doi.org/10.6069/WY8K-D973' target="_blank">![DOI:10.6069/WY8K-D973](https://zenodo.org/badge/DOI/10.6069/WY8K-D973.svg)</a>.
+  
+  - See all [papers](research.html).
 
 - I worked on many R packages: I developed the <a href="http://www.ekotov.pro/wikimapR/" target="_blank">`wikimapR`</a> for getting data using Wikimapia API, enhanced <a href="https://github.com/chainsawriot/rang" target="_blank">`rang`</a> for reproducible research, and made contributions to `layer`, `OpenTripPlanner`, `geofacet`, `esri2sf` and <a href="https://www.ekotov.pro/software.html" target="_blank">more R packages</a>.
 
