@@ -16,7 +16,7 @@
 
 - I write <a href="https://www.ekotov.pro/research.html" target="_blank">papers</a>.
 
-- I worked on many R pacakges: I developed the <a href="http://www.ekotov.pro/wikimapR/" target="_blank">`wikimapR`</a> for getting data using Wikimapia API, enhanced <a href="https://github.com/chainsawriot/rang" target="_blank">`rang`</a> for reproducible research, and made contributions to `layer`, `OpenTripPlanner`, `geofacet`, `esri2sf` and <a href="https://www.ekotov.pro/software.html" target="_blank">more R packages</a>.
+- I worked on many R packages: I developed the <a href="http://www.ekotov.pro/wikimapR/" target="_blank">`wikimapR`</a> for getting data using Wikimapia API, enhanced <a href="https://github.com/chainsawriot/rang" target="_blank">`rang`</a> for reproducible research, and made contributions to `layer`, `OpenTripPlanner`, `geofacet`, `esri2sf` and <a href="https://www.ekotov.pro/software.html" target="_blank">more R packages</a>.
 
 - I used to teach <a ref="https://www.ekotov.pro/about.html#teaching" target="_blank">reproducible data analysis in R and computational spatial morphology</a> to urban researchers and planners.
 
