@@ -30,7 +30,7 @@
 
 - Implications of human mobility for disease dynamics and inequalities
 
-<img src="https://github-readme-stats.vercel.app/api?username=e-kotov&count_private=true&&show_icons=true&theme=swift" alt = "Egor's github stats">
+<img src="https://github-readme-stats.vercel.app/api?username=e-kotov&count_private=true&show_icons=true&theme=swift&rank_icon=percentile&include_all_commits=true&show=prs_merged_percentage" alt = "Egor's github stats">
 
 <i>GitHub stats by <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">https://github.com/anuraghazra/github-readme-stats</a></i>
 
