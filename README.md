@@ -16,7 +16,7 @@
 
 - My latest paper is:
 
-  - **Kotov, E.**, & Deneke, E. (2024). Expanding the Lifespan of Software for Demographic Analysis with Containers: An Application of Spatial Sampling. The Denominator. Population Dynamics Lab. <a href='https://dx.doi.org/10.6069/WY8K-D973' target="_blank">![DOI:10.6069/WY8K-D973](https://zenodo.org/badge/DOI/10.6069/WY8K-D973.svg)</a>.
+  - **Kotov, E.**, & Denecke, E. (2024). Expanding the Lifespan of Software for Demographic Analysis with Containers: An Application of Spatial Sampling. The Denominator. Population Dynamics Lab. <a href='https://dx.doi.org/10.6069/WY8K-D973' target="_blank">![DOI:10.6069/WY8K-D973](https://zenodo.org/badge/DOI/10.6069/WY8K-D973.svg)</a>.
   
   - See all [papers](research.html).
 
