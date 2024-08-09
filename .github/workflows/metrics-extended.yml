@@ -17,6 +17,7 @@ jobs:
       - uses: e-kotov/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-extended.svg
           output_action: commit
           committer_message: "chore: update metrics"
           retries: 3
