@@ -3,7 +3,7 @@
 	  <a href="https://fediscience.org/@EgorKotov" target="_blank"><img src="https://img.shields.io/badge/-Mastodon-555555?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" rel="me"></a>
   <a href="https://twitter.com/EgorKotov" target="_blank"><img src="https://img.shields.io/badge/-Twitter-555555?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.researchgate.net/profile/Egor_Kotov target="_blank""><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
-  <a href="https://scholar.google.ru/citations?user=lZ2AXMAAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://scholar.google.com/citations?user=lZ2AXMAAAAAJ&hl=en" target="_blank"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
     <a href="https://www.linkedin.com/in/egorkotov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=grey" alt="LinkedIn"></a>
   <a href="http://youtube.com/c/EgorKotov" target="_blank"><img src="https://img.shields.io/badge/-YouTube-555555?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>	
 </p>
