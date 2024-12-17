@@ -20,7 +20,19 @@
   
   - See all [papers](research.html).
 
-- I worked on many R packages: I developed the <a href="http://www.ekotov.pro/rJavaEnv/" target="_blank">`rJavaEnv`</a> package to manage Java environment for Java-dependent R packages, <a href="http://www.ekotov.pro/wikimapR/" target="_blank">`wikimapR`</a> for getting data using Wikimapia API, enhanced <a href="https://github.com/chainsawriot/rang" target="_blank">`rang`</a> for reproducible research, and made contributions to `layer`, `OpenTripPlanner`, `geofacet`, `esri2sf` and <a href="https://www.ekotov.pro/software.html" target="_blank">more R packages and other open source software</a>.
+- I worked on many R packages:
+  
+  <a href="http://www.ekotov.pro/rJavaEnv/" target="_blank"><img src="https://www.ekotov.pro/rJavaEnv/logo.png" align="right" height="100" alt="rJavaEnv website"/></a>
+  - developed [`{rJavaEnv}`](rJavaEnv) package to manage Java environment for Java-dependent R packages
+  
+  <a href="https://rOpenSpain.github.io/spanishoddata/" target="_blank"><img src="https://github.com/rOpenSpain/spanishoddata/blob/main/man/figures/logo.png?raw=true" align="right" height="100" alt="spanishoddata website"/></a>
+  - co-developed [`{spanishoddata}`](https://github.com/rOpenSpain/spanishoddata) (collaboration with [Robin Lovelace](https://www.robinlovelace.net/)) for accessing Spanish origin-destination matrices based on aggregated mobile phone based human mobility data
+
+  - developed [`{mapineqr}`](mapineqr) for accessing the the inequality indicators using [Mapineq.org API](https://www.mapineq.org/data-users/)
+  
+  - developed [`{wikimapR}`](wikimapR) for getting data using Wikimapia API
+  
+  - enhanced [`rang`](https://github.com/chainsawriot/rang) for reproducible research, and made contributions to `layer`, `geofacet`, `esri2sf` and [more R packages and other open source software](software.html).
 
 - I used to teach <a ref="https://www.ekotov.pro/about.html#teaching" target="_blank">reproducible data analysis in R and computational spatial morphology</a> to urban researchers and planners.
 
