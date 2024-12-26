@@ -26,7 +26,7 @@
   - developed [`{rJavaEnv}`](rJavaEnv) package to manage Java environment for Java-dependent R packages
   
   <a href="https://rOpenSpain.github.io/spanishoddata/" target="_blank"><img src="https://github.com/rOpenSpain/spanishoddata/blob/main/man/figures/logo.png?raw=true" align="right" height="100" alt="spanishoddata website"/></a>
-  - co-developed [`{spanishoddata}`](https://github.com/rOpenSpain/spanishoddata) (collaboration with [Robin Lovelace](https://www.robinlovelace.net/)) for accessing Spanish origin-destination matrices based on aggregated mobile phone based human mobility data
+  - co-developed [`{spanishoddata}`](https://github.com/rOpenSpain/spanishoddata) (collaboration with [Robin Lovelace](https://www.robinlovelace.net/)) for accessing Spanish origin-destination matrices based on aggregated mobile phone based human mobility data, also featured on the [official website of the Ministry of Transport and Sustainable Mobility of Spain](https://www.transportes.gob.es/ministerio/proyectos-singulares/estudios-de-movilidad-con-big-data/opendata-movilidad)
 
   - developed [`{mapineqr}`](mapineqr) for accessing the the inequality indicators using [Mapineq.org API](https://www.mapineq.org/data-users/)
   
