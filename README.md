@@ -23,7 +23,7 @@ I focus on analysis of digital trace data to study human mobility patterns and i
 
 <!-- START:CALLOUT -->
 > [!NOTE]
-> **Access the website of the **Beyond the Chatbox** workshop at [ekotov.pro/2026-09-agentic-workshop/](https://www.ekotov.pro/2026-09-agentic-workshop/)**
+> **Access the website of the Beyond the Chatbox workshop at [ekotov.pro/2026-09-agentic-workshop/](https://www.ekotov.pro/2026-09-agentic-workshop/)**
 <!-- END:CALLOUT -->
 
 ---
