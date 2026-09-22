@@ -46,5 +46,6 @@ jobs:
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 50
-          plugin_traffic: yes
+          plugin_traffic: no
+          repositories_batch: 20
           plugin_repositories_featured: rJavaEnv, rOpenSpain/spanishoddata, wikimapR
