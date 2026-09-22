@@ -21,6 +21,11 @@ I am a Spatial Data Scientist and **[Doctoral Researcher](https://www.demogr.mpg
 
 I focus on analysis of digital trace data to study human mobility patterns and its effects on disease dynamics and spatial inequalities.
 
+<!-- START:CALLOUT -->
+> [!NOTE]
+> **Access the website of the Beyond the Chatbox workshop at [ekotov.pro/2026-09-agentic-workshop/](https://www.ekotov.pro/2026-09-agentic-workshop/)**
+<!-- END:CALLOUT -->
+
 ---
 
 ### 📦 Selected R Packages and Software
@@ -81,6 +86,21 @@ R package to interactively explore routes calculated with [`{r5r}`](https://ipea
 
 <br clear="all" />
 
+<a href="https://www.ekotov.pro/osrm.backend/" target="_blank"><img src="https://www.ekotov.pro/osrm.backend/logo.png" align="right" height="120" alt="osrm.backend"/></a>
+
+#### [`{osrm.backend}`](https://github.com/e-kotov/osrm.backend)
+**Install, run and manage local OSRM instances.**
+R package to install and control Open Source Routing Machine (OSRM) backend executables, prepare routing data and run/stop a local OSRM server. Also comes with a GUI.
+
+<p>
+  <a href="https://cran.r-project.org/package=osrm.backend"><img src="https://www.r-pkg.org/badges/version/osrm.backend" alt="CRAN status"></a>
+  <a href="https://e-kotov.r-universe.dev/osrm.backend"><img src="https://e-kotov.r-universe.dev/osrm.backend/badges/version" alt="R Universe"></a>
+  <a href="https://CRAN.R-project.org/package=osrm.backend"><img src="https://cranlogs.r-pkg.org/badges/grand-total/osrm.backend?color=blue" alt="Total Downloads"></a>
+  <a href="https://CRAN.R-project.org/package=osrm.backend"><img src="https://cranlogs.r-pkg.org/badges/osrm.backend?color=blue" alt="Monthly Downloads"></a>
+</p>
+
+<br clear="all" />
+
 <a href="https://cidree.github.io/duckspatial/" target="_blank"><img src="https://cidree.github.io/duckspatial/logo.png" align="right" height="120" alt="duckspatial"/></a>
 
 #### [`{duckspatial}`](https://github.com/cidree/duckspatial)
@@ -113,26 +133,31 @@ A toolset for generating and managing spatial grids for demographic and mobility
 
 ---
 
+<!-- START:RESEARCH -->
 ### 📄 Latest Research
 
 **Kotov, E.**, Vidal-Tortosa, E., Cantú-Ros, O. G., Burrieza-Galán, J., Herranz, R., Gullón Muñoz-Repiso, T., & Lovelace, R. (2026). spanishoddata: A package for accessing and working with Spanish Open Mobility Big Data. *Environment and Planning B: Urban Analytics and City Science*. [![DOI:10.1177/23998083251415040](https://zenodo.org/badge/DOI/10.1177/23998083251415040.svg)](https://doi.org/10.1177/23998083251415040)
 
 Pardo-Araujo, M., **Kotov, E.**, Alonso, D. & Bartumeus, F. (2026). Understanding Mosquito Vector Invasion Pathways: Synergistic Effects of Human Mobility, Climate and Natural Dispersal. *Ecology Letters*. [![DOI:10.1111/ele.70317](https://zenodo.org/badge/DOI/10.1111/ele.70317.svg)](https://doi.org/10.1111/ele.70317)
 
-**Kotov, E.**, & Denecke, E. (2024). Expanding the Lifespan of Software for Demographic Analysis with Containers: An Application of Spatial Sampling. *The Denominator*. Population Dynamics Lab. [![DOI:10.6069/WY8K-D973](https://zenodo.org/badge/DOI/10.6069/WY8K-D973.svg)](https://doi.org/10.6069/WY8K-D973)
+Renninger, A., **Kotov, E.**, & Cabrera, C. (2026). The scales of urban mobility shape socioeconomic mixing. *arXiv preprint arXiv:2608.28734*. [![DOI:10.48550/arXiv.2608.28734](https://zenodo.org/badge/DOI/10.48550/arXiv.2608.28734.svg)](https://doi.org/10.48550/arXiv.2608.28734)
 
+**Kotov, E.**, & Denecke, E. (2024). Expanding the Lifespan of Software for Demographic Analysis with Containers: An Application of Spatial Sampling. The Denominator. Population Dynamics Lab. [![DOI:10.6069/WY8K-D973](https://zenodo.org/badge/DOI/10.6069/WY8K-D973.svg)](https://dx.doi.org/10.6069/WY8K-D973)
+  
 [See all papers →](https://www.ekotov.pro/research.html)
+<!-- END:RESEARCH -->
 
 ---
 
+<!-- START:ACTIVITY -->
 ### 📢 Recent Activity
 
-- **Workshop:** [Open Science and Reproducibility with Quarto, GitHub, and R](https://www.ekotov.pro/2025-EDSD-open-science-quarto-github/) for European Doctoral School of Demography (EDSD).
-- **Poster:** *Beyond Averages: Inequalities in Mobility-Based PM2.5 Exposure in Greater Paris* at NetMob 2025, Paris, France, October 2025.
-- **Talk:** *Open MNO Mobility Data in Spain: A Reproducible Sharing Approach via R package [`{spanishoddata}`](https://ropenspain.github.io/spanishoddata/)* at MNO-MINDS Final Conference, Paris, France, September 2025. [Slides](https://cros.ec.europa.eu/system/files/2025-10/Day2_session6_presentation1_Kotov-et-al.pdf).
-- **Tutorial:** [*Mobility Flows and Accessibility Using R and Big Open Data*](https://www.ekotov.pro/spanish-open-mobility-workshop-ic2s2-2025/) at IC2S2 2025. [![DOI:10.5281/zenodo.16238597](https://zenodo.org/badge/DOI/10.5281/zenodo.16238597.svg)](https://doi.org/10.5281/zenodo.16238597)
-- **Talk:** [*Massive open mobile phone derived human mobility data is coming to the EU*](https://www.ekotov.pro/geomob-berlin-2025/) at Geomob June 4th, 2025, Berlin, Germany.
-- **Workshop:** [*Projects’ workflow for reproducibility and replicability using R*](https://www.ekotov.pro/2025-mpidr-open-science-reproducible-workflows/) at 2nd Rostock Open Science Workshop.
+- **Talk:** *Scaling individual traces to regional realities: Quantifying the gap between transit availability and realized mobility* at 18th NECTAR Conference, Munich, Germany, July 2026.
+- **Talk:** *`spanishoddata`: A package for accessing and working with Spanish Open Mobility Big Data* at 29th AGILE Conference on Geographic Information Science, Tartu, Estonia, June 2026. [PDF slides](https://www.ekotov.pro/assets/slides/2026-06-17-agile-spanishoddata-kotov.pdf)
+- **Talk:** *From Spatial Accessibility to Realized Mobility: Evaluating Personal Constraints Using Population-Representative GPS Data* at Mobile Tartu 2026, Tartu, Estonia, June 2026.
+- **Talk:** *Daily Mobility Validation: Biases in Spanish Open Mobility Data* at Mobile Tartu 2026, Tartu, Estonia, June 2026. [Online slides](https://www.ekotov.pro/spanishoddata-debiasR-tartu-26/)
+- **Poster:** *A causal analysis of human mobility on colonization of disease-carrying tiger mosquitoes in Spain* at 29th AGILE Conference on Geographic Information Science, Tartu, Estonia, June 2026. [Paper](https://doi.org/10.5281/zenodo.20181596), [PDF poster](https://www.ekotov.pro/assets/posters/2026-06-agile-mosquito-poster-kotov.pdf)
+<!-- END:ACTIVITY -->
 
 <br>
 
