@@ -156,7 +156,7 @@ Renninger, A., **Kotov, E.**, & Cabrera, C. (2026). The scales of urban mobility
 - **Talk:** *`spanishoddata`: A package for accessing and working with Spanish Open Mobility Big Data* at 29th AGILE Conference on Geographic Information Science, Tartu, Estonia, June 2026. [PDF slides](https://www.ekotov.pro/assets/slides/2026-06-17-agile-spanishoddata-kotov.pdf)
 - **Talk:** *From Spatial Accessibility to Realized Mobility: Evaluating Personal Constraints Using Population-Representative GPS Data* at Mobile Tartu 2026, Tartu, Estonia, June 2026.
 - **Talk:** *Daily Mobility Validation: Biases in Spanish Open Mobility Data* at Mobile Tartu 2026, Tartu, Estonia, June 2026. [Online slides](https://www.ekotov.pro/spanishoddata-debiasR-tartu-26/)
-- **Poster:** *A causal analysis of human mobility on colonization of disease-carrying tiger mosquitoes in Spain* at 29th AGILE Conference on Geographic Information Science, Tartu, Estonia, June 2026. [Paper](https://doi.org/10.5281/zenodo.20181596), [PDF poster](https://www.ekotov.pro/assets/posters/2026-06-agile-mosquito-poster-kotov.pdf)
+- **Poster:** *A causal analysis of human mobility on colonization of disease-carrying tiger mosquitoes in Spain* at 29th AGILE Conference on Geographic Information Science, Tartu, Estonia, June 2026. [Paper](https://doi.org/10.5281/zenodo.20181596)
 <!-- END:ACTIVITY -->
 
 <br>
