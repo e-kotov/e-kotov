@@ -142,7 +142,6 @@ Pardo-Araujo, M., **Kotov, E.**, Alonso, D. & Bartumeus, F. (2026). Understandin
 
 Renninger, A., **Kotov, E.**, & Cabrera, C. (2026). The scales of urban mobility shape socioeconomic mixing. *arXiv preprint arXiv:2608.28734*. [![DOI:10.48550/arXiv.2608.28734](https://zenodo.org/badge/DOI/10.48550/arXiv.2608.28734.svg)](https://doi.org/10.48550/arXiv.2608.28734)
 
-**Kotov, E.**, & Denecke, E. (2024). Expanding the Lifespan of Software for Demographic Analysis with Containers: An Application of Spatial Sampling. The Denominator. Population Dynamics Lab. [![DOI:10.6069/WY8K-D973](https://zenodo.org/badge/DOI/10.6069/WY8K-D973.svg)](https://dx.doi.org/10.6069/WY8K-D973)
   
 [See all papers →](https://www.ekotov.pro/research.html)
 <!-- END:RESEARCH -->
