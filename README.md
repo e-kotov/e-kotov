@@ -21,10 +21,7 @@ I am a Spatial Data Scientist and **[Doctoral Researcher](https://www.demogr.mpg
 
 I focus on analysis of digital trace data to study human mobility patterns and its effects on disease dynamics and spatial inequalities.
 
-<!-- START:CALLOUT -->
-> [!NOTE]
-> **Access the website of the Beyond the Chatbox workshop at [ekotov.pro/2026-09-agentic-workshop/](https://www.ekotov.pro/2026-09-agentic-workshop/)**
-<!-- END:CALLOUT -->
+<!-- START:CALLOUT --><!-- END:CALLOUT -->
 
 ---
 
